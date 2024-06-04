@@ -24,13 +24,16 @@ const TopInfo = () => {
             </span>
           </li>
         </Link>
-        <Link href="https://studenthub.churchill.nsw.edu.au/" target="_blank">
-        <li className="flex gap-1 items-center cursor-pointer">
-          <p>Student Hub</p>
-          <span>
-            <MdQuestionAnswer />
-          </span>
-        </li>
+        <Link
+          href="https://churchill-student-hub-eight.vercel.app/"
+          target="_blank"
+        >
+          <li className="flex gap-1 items-center cursor-pointer">
+            <p>Student Hub</p>
+            <span>
+              <MdQuestionAnswer />
+            </span>
+          </li>
         </Link>
         <Link href="/contact-us">
           <li className="flex gap-1 items-center cursor-pointer">
