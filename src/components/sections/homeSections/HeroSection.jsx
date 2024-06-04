@@ -56,7 +56,7 @@ const HeroSection = () => {
         title={""}
         subTitle={"Explore our innovative programs and transform your career."}
         link={`/courses`}
-        linkA={`/under-construction`}
+        linkA={`/apply-now`}
         BtnAText={"Explore Our Courses"}
         BtnBText={"Apply Now"}
       />
