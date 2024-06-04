@@ -219,7 +219,8 @@ export const navItems = [
         headerIcon: "fi fi-rr-student",
         image: "/assets/course-b.png",
         link: "",
-        redirectLink: "https://churchill-student-hub.vercel.app/",
+        redirectLink:
+          "https://https://churchill-student-hub-eight.vercel.app//",
       },
       {
         menuTitle: "faqs",
@@ -252,7 +253,8 @@ export const navItems = [
         headerIcon: "fi fi-rr-form",
         image: "/assets/course-b.png",
         link: "/blogs",
-        redirectLink: "https://churchill-student-hub.vercel.app/request-form",
+        redirectLink:
+          "https://https://churchill-student-hub-eight.vercel.app//request-form",
       },
       {
         menuTitle: "blogs",
@@ -277,7 +279,7 @@ export const navItems = [
         image: "/assets/course-b.png",
         link: "",
         redirectLink:
-          "https://churchill-student-hub.vercel.app/upcoming-key-dates",
+          "https://https://churchill-student-hub-eight.vercel.app//upcoming-key-dates",
       },
     ],
   },

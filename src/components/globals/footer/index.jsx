@@ -139,7 +139,9 @@ const Footer = () => {
                   <li>
                     <Link
                       target="_blank"
-                      href={"https://churchill-student-hub.vercel.app/"}
+                      href={
+                        "https://https://churchill-student-hub-eight.vercel.app//"
+                      }
                     >
                       Student Hub
                     </Link>
@@ -166,7 +168,7 @@ const Footer = () => {
                     <Link
                       target="_blank"
                       href={
-                        "https://churchill-student-hub.vercel.app/request-form"
+                        "https://https://churchill-student-hub-eight.vercel.app//request-form"
                       }
                     >
                       Request Form
@@ -182,7 +184,7 @@ const Footer = () => {
                     <Link
                       target="_blank"
                       href={
-                        "https://churchill-student-hub.vercel.app/upcoming-key-dates"
+                        "https://https://churchill-student-hub-eight.vercel.app//upcoming-key-dates"
                       }
                     >
                       Upcoming Key Dates
@@ -202,7 +204,11 @@ const Footer = () => {
                     <Link href={"/find-agent"}>Find Agent</Link>
                   </li>
                   <li>
-                    <Link href={"https://churchill-student-hub.vercel.app/"}>
+                    <Link
+                      href={
+                        "https://https://churchill-student-hub-eight.vercel.app//"
+                      }
+                    >
                       Student Hub
                     </Link>
                   </li>
