@@ -21,7 +21,7 @@ const Courses = () => {
         subTitle="Explore our innovative programs and transform your career."
         BtnAText="Apply Now"
         BtnBText="View Courses"
-        link=""
+        link="/apply-now"
         linkA="#courses"
       />
 
