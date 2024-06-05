@@ -110,6 +110,7 @@ export const navItems = [
         slug: "CIHE-governance-structure",
         link: "",
         image: "/assets/course-b.png",
+        redirectLink: "/assets/CIHE-Governance-Structure-December-2022.pdf",
         CatagoriesItem: [],
       },
       {
@@ -118,6 +119,7 @@ export const navItems = [
         slug: "CIHE-organisational-chart",
         link: "",
         image: "/assets/course-c.png",
+        redirectLink: "/assets/Churchill-IHE-Org-Chart_v2.1-13-Dec-2021.pdf",
         CatagoriesItem: [],
       },
       {
@@ -171,6 +173,7 @@ export const navItems = [
         slug: "company-and-financial-documents",
         link: "",
         image: "/assets/course-a.png",
+        // redirectLink: "/assets/",
         CatagoriesItem: [],
       },
       {
@@ -179,6 +182,7 @@ export const navItems = [
         slug: "policies-and-procedures",
         link: "",
         image: "/assets/course-b.png",
+        // redirectLink: "/assets/",
         CatagoriesItem: [],
       },
       {
@@ -187,6 +191,7 @@ export const navItems = [
         slug: "accreditation",
         link: "",
         image: "/assets/course-c.png",
+        // redirectLink: "/assets/",
         CatagoriesItem: [],
       },
       // {
@@ -219,8 +224,7 @@ export const navItems = [
         headerIcon: "fi fi-rr-student",
         image: "/assets/course-b.png",
         link: "",
-        redirectLink:
-          "https://https://churchill-student-hub-eight.vercel.app//",
+        redirectLink: "https://churchill-student-hub-eight.vercel.app/",
       },
       {
         menuTitle: "faqs",
@@ -254,7 +258,7 @@ export const navItems = [
         image: "/assets/course-b.png",
         link: "/blogs",
         redirectLink:
-          "https://https://churchill-student-hub-eight.vercel.app//request-form",
+          "https://churchill-student-hub-eight.vercel.app/request-form",
       },
       {
         menuTitle: "blogs",
@@ -279,7 +283,7 @@ export const navItems = [
         image: "/assets/course-b.png",
         link: "",
         redirectLink:
-          "https://https://churchill-student-hub-eight.vercel.app//upcoming-key-dates",
+          "https://churchill-student-hub-eight.vercel.app/upcoming-key-dates",
       },
     ],
   },

@@ -28,7 +28,7 @@ const EventsSection = () => {
           <div className="flex justify-center">
             <Link
               href={
-                "https://https://churchill-student-hub-eight.vercel.app//upcoming-key-dates"
+                "https://churchill-student-hub-eight.vercel.app//upcoming-key-dates"
               }
               className="w-max"
             >

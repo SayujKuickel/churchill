@@ -43,105 +43,112 @@ export const contactData = [
   },
 ];
 
+//
+//
+//
 export const contactFaqs = [
   {
-    title: "This is question number 1",
+    title: "What programs and courses does Churchill offer?",
     description: `
-        <p>
-        It all depends on the program you want to study, whether it's
-        undergraduate or postgraduate, or whether it's a coursework degree or
-        research degree. Normally, you need to meet both academic entry
-        requirements and English language entry requirements to get an offer.
-        However, some programs may have additional selection criteria.
-      </p>
       <p>
-        Our dedicated degree page is the ultimate tool for you to find the
-        perfect CIHE degree you want to study and everything you need to know
-        before you apply.
+        Churchill offers a wide range of undergraduate and postgraduate programs across various fields, including:
       </p>
-      <p>
-        Do you know CIHE accepts secondary qualifications of certain overseas
-        countries? Simply switch the country that you obtained a secondary
-        qualification in the “Entry requirements” section of the degree you want
-        to apply on the degree page. Our website will let you know if you are
-        eligible to apply via international direct entry. We encourage you to
-        contact us for more information on what qualifications you may need to
-        meet entry.
-      </p>`,
+      <ul>
+        <li>Business and Management</li>
+        <li>Engineering and Technology</li>
+        <li>Arts and Humanities</li>
+        <li>Science and Health</li>
+        <li>Social Sciences</li>
+        <li>Education</li>
+      </ul>
+    `,
   },
   {
-    title: "This is question number 2",
+    title: "How do I apply to Churchill?",
     description: `
-        <p>
-        It all depends on the program you want to study, whether it's
-        undergraduate or postgraduate, or whether it's a coursework degree or
-        research degree. Normally, you need to meet both academic entry
-        requirements and English language entry requirements to get an offer.
-        However, some programs may have additional selection criteria.
-      </p>
       <p>
-        Our dedicated degree page is the ultimate tool for you to find the
-        perfect CIHE degree you want to study and everything you need to know
-        before you apply.
+        You can apply to Churchill through our online application portal. Ensure you have all necessary documents, such as transcripts, letters of recommendation, a personal statement, and proof of English proficiency if applicable. Deadlines for applications vary by program, so check the specific requirements for your chosen course.
       </p>
-      <p>
-        Do you know CIHE accepts secondary qualifications of certain overseas
-        countries? Simply switch the country that you obtained a secondary
-        qualification in the “Entry requirements” section of the degree you want
-        to apply on the degree page. Our website will let you know if you are
-        eligible to apply via international direct entry. We encourage you to
-        contact us for more information on what qualifications you may need to
-        meet entry.
-      </p>`,
+    `,
   },
   {
-    title: "This is question number 2",
+    title: "What are the admission requirements?",
     description: `
-        <p>
-        It all depends on the program you want to study, whether it's
-        undergraduate or postgraduate, or whether it's a coursework degree or
-        research degree. Normally, you need to meet both academic entry
-        requirements and English language entry requirements to get an offer.
-        However, some programs may have additional selection criteria.
-      </p>
       <p>
-        Our dedicated degree page is the ultimate tool for you to find the
-        perfect CIHE degree you want to study and everything you need to know
-        before you apply.
+        Admission requirements vary by program, but generally include:
       </p>
-      <p>
-        Do you know CIHE accepts secondary qualifications of certain overseas
-        countries? Simply switch the country that you obtained a secondary
-        qualification in the “Entry requirements” section of the degree you want
-        to apply on the degree page. Our website will let you know if you are
-        eligible to apply via international direct entry. We encourage you to
-        contact us for more information on what qualifications you may need to
-        meet entry.
-      </p>`,
+      <ul>
+        <li>Completed application form</li>
+        <li>Academic transcripts</li>
+        <li>Letters of recommendation</li>
+        <li>Personal statement or essay</li>
+        <li>English language proficiency test scores (e.g., IELTS, TOEFL) for non-native speakers</li>
+        <li>Standardized test scores (e.g., SAT, GRE) if applicable</li>
+      </ul>
+    `,
   },
   {
-    title: "This is question number 3",
+    title: "What scholarships and financial aid are available?",
     description: `
-        <p>
-        It all depends on the program you want to study, whether it's
-        undergraduate or postgraduate, or whether it's a coursework degree or
-        research degree. Normally, you need to meet both academic entry
-        requirements and English language entry requirements to get an offer.
-        However, some programs may have additional selection criteria.
-      </p>
       <p>
-        Our dedicated degree page is the ultimate tool for you to find the
-        perfect CIHE degree you want to study and everything you need to know
-        before you apply.
+        Churchill offers various scholarships, grants, and financial aid options for both domestic and international students. These include merit-based scholarships, need-based grants, and specific awards for certain programs or demographics. Visit our financial aid office or website for more details on how to apply.
       </p>
+    `,
+  },
+  {
+    title: "What is the tuition fee structure?",
+    description: `
       <p>
-        Do you know CIHE accepts secondary qualifications of certain overseas
-        countries? Simply switch the country that you obtained a secondary
-        qualification in the “Entry requirements” section of the degree you want
-        to apply on the degree page. Our website will let you know if you are
-        eligible to apply via international direct entry. We encourage you to
-        contact us for more information on what qualifications you may need to
-        meet entry.
-      </p>`,
+        Tuition fees at Churchill vary depending on the program and level of study. Detailed information about tuition fees, as well as additional costs such as accommodation, textbooks, and other expenses, can be found on our website under the tuition fees section.
+      </p>
+    `,
+  },
+  {
+    title: "What accommodation options are available for students?",
+    description: `
+      <p>
+        Churchill provides several on-campus housing options, including dormitories, apartments, and family housing. Additionally, there are off-campus housing resources available to help students find suitable accommodations nearby. Our housing office can assist with the application process and provide information on costs and facilities.
+      </p>
+    `,
+  },
+  {
+    title: "What student support services does Churchill offer?",
+    description: `
+      <p>
+        Churchill is committed to supporting our students through various services, including:
+      </p>
+      <ul>
+        <li>Academic advising and tutoring</li>
+        <li>Career counseling and job placement assistance</li>
+        <li>Mental health and wellness services</li>
+        <li>Disability support services</li>
+        <li>Student clubs and organizations</li>
+        <li>Orientation programs for new students</li>
+      </ul>
+    `,
+  },
+  {
+    title: "How can I get involved in student life at Churchill?",
+    description: `
+      <p>
+        There are numerous ways to get involved in student life at Churchill, including joining student clubs and organizations, participating in sports teams, attending campus events and workshops, and volunteering in community service projects. Our student affairs office can provide more information on current opportunities.
+      </p>
+    `,
+  },
+  {
+    title: "What are the campus facilities like?",
+    description: `
+      <p>
+        Churchill boasts state-of-the-art facilities, including modern classrooms, well-equipped laboratories, extensive libraries, sports and recreation centers, student lounges, and dining halls. We also have dedicated spaces for art, music, and other extracurricular activities.
+      </p>
+    `,
+  },
+  {
+    title: "How can I contact Churchill for more information?",
+    description: `
+      <p>
+        You can contact Churchill through our official website's contact page, where you'll find email addresses, phone numbers, and office locations for various departments. Additionally, you can visit our admissions office in person or attend one of our virtual information sessions to get your questions answered.
+      </p>
+    `,
   },
 ];

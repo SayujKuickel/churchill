@@ -48,18 +48,18 @@ const NavList = ({
                     handleOnclickA();
                   }}
                 >
-                  <Link href={item?.slug}>
-                    <div
-                      className={`flex gap-1 items-center  ${
-                        isActive && "text-[#eb9320]"
-                      } cursor-pointer pb-5 hover:text-[#eb9320]`}
-                    >
-                      <p className="">{item?.title}</p>
-                      <span className="rotate-180 group-hover:rotate-0 transition-all">
-                        <FaAngleDown />
-                      </span>
-                    </div>
-                  </Link>
+                  {/* <Link href={item?.slug}> */}
+                  <div
+                    className={`flex gap-1 items-center  ${
+                      isActive && "text-[#eb9320]"
+                    } cursor-pointer pb-5 hover:text-[#eb9320]`}
+                  >
+                    <p className="">{item?.title}</p>
+                    <span className="rotate-180 group-hover:rotate-0 transition-all">
+                      <FaAngleDown />
+                    </span>
+                  </div>
+                  {/* </Link> */}
                   {isDropdownActive && (
                     <div className="z-20 hidden px-5 py-3 w-[80vw] lg:w-[100vw] border-t-4 border-t-[#eb9320] group-hover:block lg:absolute lg:left-0 top-[100%] shadow-xl whitespace-wrap transition delay-150 bg-white">
                       <div className="flex flex-col lg:flex-row gap-4 container mx-auto py-4">

@@ -80,7 +80,7 @@ const ContactUs = () => {
               Frequently aksed Questions
             </h2>
 
-            <AccordionComponent data={contactFaqs?.slice(0, 2)} />
+            <AccordionComponent data={contactFaqs?.slice(0, 4)} />
 
             <span className="w-fit mx-auto">
               <Link href="/contact-us/faq">
